@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>webcam_output.jpeg</file>
+    </qresource>
+</RCC>
